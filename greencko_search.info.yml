@@ -1,0 +1,9 @@
+name: 'Greencko Search'
+description: 'Provide Search related configuration.'
+type: module
+core: 8.x
+version: 8.x-6.x-dev
+package: Greencko
+dependencies:
+  - search_api
+  - ultimate_cron
